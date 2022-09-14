@@ -2,9 +2,9 @@ entries:
   - title: Contact information
     entries:
       - title: email
-        url: mailto:hello@stockholmagilab.se
+        url: mailto:info@agicourse.org
       - title: github
-        url: http://github.com/stockholm-agi-lab
+        url: http://github.com/AGI-course
 
   - title: Recent posts
     post_list: true
