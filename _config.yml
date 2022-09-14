@@ -1,9 +1,9 @@
-title: Stockholm AGI Lab
-email: hello@stockholmagilab.se
-description: Stockholm AGI Lab News
+title: AGI Course Fall 2022
+email: info@agicourse.org
+description: Info about the AGI Course at Digital Futures and Stockholm University, Fall 2022
 baseurl: ""
-url: "https://Stockholm-AGI-Lab.github.io"
-github_username:  stockholm-agi-lab
+url: "https://agi-course.github.io"
+github_username:  AGI-course
 
 permalink: /:slug.html
 
