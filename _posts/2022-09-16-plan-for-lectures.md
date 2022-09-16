@@ -13,4 +13,13 @@ slug: plan for lectures
 7. Communication and Socialization (November 17)
 8. Summary (November 24)
 
+
+Below are draft versions of the following two books:
+
+Wang, P. (2006). Rigid flexibility: The logic of intelligence (Vol. 34). Springer Science & Business Media.
+[Download 2006 book draft](https://github.com/AGI-course/agi-course.github.io/raw/master/Course%20material/RF-Wang-draft.pdf)
+
+Wang, P. (2013). Non-axiomatic logic: A model of intelligent reasoning. World Scientific.
+[Download 2013 book draft](https://github.com/AGI-course/agi-course.github.io/raw/master/Course%20material/NAL-Wang-draft.pdf)
+
 ---
