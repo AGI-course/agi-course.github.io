@@ -9,7 +9,7 @@ slug: plan for lectures
 3. [Basic Inference Rules (October 13)](https://github.com/AGI-course/agi-course.github.io/raw/master/Course%20material/AGI-DF-3.pdf)
 4. [Dynamic Resource Allocation (October 27)](https://github.com/AGI-course/agi-course.github.io/raw/master/Course%20material/AGI-DF-4.pdf)
 5. [Memory Self-Organization (November 3)](https://github.com/AGI-course/agi-course.github.io/raw/master/Course%20material/AGI-DF-5.pdf)
-6. Operations and Goals (November 10)
+6. [Operations and Goals (November 10)](https://github.com/AGI-course/agi-course.github.io/raw/master/Course%20material/AGI-DF-6.pdf)
 7. Communication and Socialization (November 17)
 8. Summary (November 24)
 
