@@ -11,8 +11,7 @@ slug: plan for lectures
 5. [Memory Self-Organization (November 3)](https://github.com/AGI-course/agi-course.github.io/raw/master/Course%20material/AGI-DF-5.pdf)
 6. [Operations and Goals (November 10)](https://github.com/AGI-course/agi-course.github.io/raw/master/Course%20material/AGI-DF-6.pdf)
 7. [Communication and Socialization (November 17)](https://github.com/AGI-course/agi-course.github.io/raw/master/Course%20material/AGI-DF-7.pdf)
-8. Summary (November 24)
-
+8. [Summary (November 24)](https://github.com/AGI-course/agi-course.github.io/raw/master/Course%20material/AGI-DF-8.pdf)
 
 Below are draft versions of the following two books:
 
